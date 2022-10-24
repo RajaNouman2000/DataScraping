@@ -1,2 +1,2 @@
 # DataScraping
-Scraping multiple page at once
+Scraping multiple pages at once in selenium
